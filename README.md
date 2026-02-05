@@ -8,5 +8,5 @@
 ## Data (no raw data included)
 1. Processed excess deaths per week per province
 2. Processed ACLED drug war deaths per week per province
-3. Shapefile of the Philippines
+3. Shapefile of the Philippines (too large to upload)
 4. Plots of associations for drug war period in PDF
