@@ -6,7 +6,7 @@
 3. Creating figures 1 and 2 of excess deaths
 
 ## Data (no raw data included)
-1. Processed excess deaths per week per province
-2. Processed ACLED drug war deaths per week per province
+1. Processed excess deaths per week per province ("an_prov_dutwk_v2.rds")
+2. Processed ACLED drug war deaths per week per province ("acleds_daily_drugwar_2016-2020.rds") - based on data downloaded in 2025-11-10
 3. Shapefile of the Philippines (too large to upload)
-4. Plots of associations for drug war period in PDF
+4. Plots of associations for drug war period in PDF ("plot_its_prov_rr.pdf")
